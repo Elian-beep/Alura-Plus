@@ -26,3 +26,12 @@
 .descricao__texto{
     color: var(--cinza-secundario);
 }
+
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.containet__descricao{
+    padding: 2em;
+}
