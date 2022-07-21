@@ -1,0 +1,25 @@
+:root{
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+}
+
+
+.dispositivos{
+    text-align: center;
+}
+
+.dispositivos__lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
+}
+
+.dispositivos__titulo{
+    font-size: 48px;
+}
+
+.lista__item{
+    font-size: 32px;
+    color: var(--branco-principal);
+}
